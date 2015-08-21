@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "brieb",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"brieb","repositoryName":"hubpress.io","branch":"gh-pages","cname":"https://briebunge.com/hubpress.io"},"site":{"title":"Brie Bunge","description":"This is my new Blog! :)","url":"http://https://briebunge.com/hubpress.io"},"socialnetwork":{"email":"brie@cs.stanford.edu"},"theme":{"name":"Casper","url":"//brieb.github.io/hubpress.io/themes/Casper"}}
